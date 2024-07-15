@@ -2,8 +2,11 @@
 a = 1
 b = 2
 
-# Adding two nos
+# Set up the breakpoint
+breakpoint()
+
+# Add two nos
 sum = a + b
 
-# Printing values
+# Print values
 print("Sum of", a, "and", b , "is", sum)

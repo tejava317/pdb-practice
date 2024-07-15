@@ -1,12 +1,12 @@
 # Python program to add two numbers
+def sum(a, b):
+    return a + b
+
 a = 1
 b = 2
 
-# Set up the breakpoint
-breakpoint()
-
 # Add two nos
-sum = a + b
+sum = sum(3, 4)
 
 # Print values
 print("Sum of", a, "and", b , "is", sum)

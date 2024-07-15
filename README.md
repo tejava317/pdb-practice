@@ -1,2 +1,2 @@
-# pdb-practice
+# pdb Practice
 Repository for practicing pdb
